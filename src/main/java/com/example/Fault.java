@@ -1,5 +1,6 @@
 package com.example;
 
+import com.example.items.loot.LootErrorEnderPearl;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.util.Identifier;
@@ -19,6 +20,7 @@ public class Fault implements ModInitializer {
 	public void onInitialize() {
 		ModItems.registerModItems();
 		ModItemGroups.registerModItemGroups();
+		LootErrorEnderPearl.registerModLoot();
 		LOGGER.info("Hello Fabric world!");
 	}
 }

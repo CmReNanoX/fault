@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "e",
+    "p",
+    "g"
+  ],
+  "key": {
+    "e": "minecraft:ender_eye",
+    "p": "minecraft:ender_pearl",
+    "g": "minecraft:glass_bottle"
+  },
+  "result": {
+    "id": "fault:teleport_potion"
+  }
+}

@@ -18,6 +18,7 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.ERROR_ENDER_PEARL);
                         entries.add(ModItems.MEGA_ENDER_PEARL);
+                        entries.add(ModItems.TELEPORT_POTION);
                     })
                     .build()
     );

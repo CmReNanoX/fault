@@ -1,0 +1,14 @@
+{
+  "item.fault.essence": "Essence",
+  "item.fault.essence_ingot": "Essence ingot",
+
+  "item.fault.error_ender_pearl": "Error ender pearl",
+  "item.fault.mega_ender_pearl": "Mega ender pearl",
+  "item.fault.teleport_potion": "Teleport potion",
+  "item.fault.world_teleport_potion": "World Teleport potion",
+
+  "itemGroup.fault.fault": "Fault",
+
+  "effect.fault.teleport_effect": "Teleport effect",
+  "effect.fault.world_teleport_effect": "World Teleport effect"
+}

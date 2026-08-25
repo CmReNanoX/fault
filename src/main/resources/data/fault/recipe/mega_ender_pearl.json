@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ppp",
+    "pep",
+    "ppp"
+  ],
+  "key": {
+    "p": "minecraft:ender_pearl",
+    "e": "fault:error_ender_pearl"
+  },
+  "result": {
+    "id": "fault:mega_ender_pearl"
+  }
+}

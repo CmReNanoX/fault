@@ -1,0 +1,21 @@
+/tp 0 100 0
+/give @a diamond_sword[enchantments={looting:255}]
+/give @a diamond_sword[enchantments={looting:255,sharpness:255}]
+/summon fault:fault
+/summon fault:fault ~ ~ ~ {Color:255}
+/summon fault:fault ~ ~ ~ {Color:128}
+/kill @e[type=fault:fault]
+/summon fault:fault ~ ~ ~ {Color:0}
+/summon fault:fault ~ ~ ~ {Color:128}
+/summon fault:fault ~ ~ ~ {Color:256}
+/kill @e[type=fault:fault]
+/summon fault:fault ~ ~ ~ {Color:256}
+/tp 0 100 0
+/tp ~ ~21 ~
+/tp ~ ~100 ~
+/tp ~ ~30 ~
+/tp ~ ~1 ~
+/tp ~ ~30 ~
+/
+/tp ~ ~30 ~
+/tp ~ ~30 ~4

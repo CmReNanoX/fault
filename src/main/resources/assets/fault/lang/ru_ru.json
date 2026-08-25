@@ -1,0 +1,9 @@
+{
+  "item.fault.error_ender_pearl": "Ошибка жемчуга Края",
+  "item.fault.mega_ender_pearl": "Мега-жемчуг Края",
+  "item.fault.teleport_potion": "Зелье телепортации",
+
+  "itemGroup.fault.fault": "Fault",
+
+  "effect.fault.teleport_effect": "Эффект телепортации"
+}

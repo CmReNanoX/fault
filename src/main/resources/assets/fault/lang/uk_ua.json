@@ -1,0 +1,9 @@
+{
+  "item.fault.error_ender_pearl": "Помилка перлини Краю",
+  "item.fault.mega_ender_pearl": "Мега-перлина Краю",
+  "item.fault.teleport_potion": "Зілля телепортації",
+
+  "itemGroup.fault.fault": "Fault",
+
+  "effect.fault.teleport_effect": "Ефект телепортації"
+}

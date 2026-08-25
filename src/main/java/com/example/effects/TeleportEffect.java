@@ -12,7 +12,7 @@ import net.minecraft.world.TeleportTarget;
 public class TeleportEffect extends StatusEffect {
 
     public TeleportEffect() {
-        super(StatusEffectCategory.BENEFICIAL, 0x8000FF);
+        super(StatusEffectCategory.BENEFICIAL, 0xaa00FF);
     }
 
     @Override
@@ -35,8 +35,6 @@ public class TeleportEffect extends StatusEffect {
 
                 player.teleportTo(target);
             }
-
-            System.out.println("Залишилась 1 секунда!");
         }
 
         return true;

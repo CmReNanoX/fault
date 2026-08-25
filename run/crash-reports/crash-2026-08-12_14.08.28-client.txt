@@ -24,7 +24,7 @@ Caused by: java.lang.NullPointerException: Item id not set
 	at knot//net.minecraft.item.Item$Settings.getTranslationKey(Item.java:405)
 	at knot//net.minecraft.item.Item.<init>(Item.java:144)
 	at knot//net.minecraft.item.EnderPearlItem.<init>(EnderPearlItem.java:19)
-	at knot//com.example.items.ItemErrorEnderPearl.<init>(ItemErrorEnderPearl.java:19)
+	at knot//com.example.items.ErrorEnderPearlItem.<init>(ItemErrorEnderPearl.java:19)
 	at knot//com.example.ModItems.<clinit>(ModItems.java:17)
 	... 9 more
 

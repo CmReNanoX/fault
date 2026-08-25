@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "eme",
+    "ede",
+    "eme"
+  ],
+  "key": {
+    "m": "fault:mega_ender_pearl",
+    "d": "minecraft:dragon_breath",
+    "e": "fault:essence"
+  },
+  "result": {
+    "id": "fault:world_teleport_potion"
+  }
+}

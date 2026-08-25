@@ -16,9 +16,14 @@ public class ModItemGroups {
                     .displayName(Text.translatable("itemGroup.fault.fault"))
                     .icon(() -> new ItemStack(ModItems.MEGA_ENDER_PEARL))
                     .entries((displayContext, entries) -> {
+                        entries.add(ModItems.ESSENCE);
+                        entries.add(ModItems.ESSENCE_INGOT);
+
                         entries.add(ModItems.ERROR_ENDER_PEARL);
                         entries.add(ModItems.MEGA_ENDER_PEARL);
+
                         entries.add(ModItems.TELEPORT_POTION);
+                        entries.add(ModItems.WORLD_TELEPORT_POTION);
                     })
                     .build()
     );

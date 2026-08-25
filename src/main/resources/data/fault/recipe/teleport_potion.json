@@ -1,14 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "e",
-    "p",
-    "g"
+    "eme",
+    "ede",
+    "e e"
   ],
   "key": {
-    "e": "minecraft:ender_eye",
-    "p": "minecraft:ender_pearl",
-    "g": "minecraft:glass_bottle"
+    "m": "fault:mega_ender_pearl",
+    "d": "minecraft:dragon_breath",
+    "e": "fault:essence"
   },
   "result": {
     "id": "fault:teleport_potion"
